@@ -88,3 +88,6 @@ Alt-left
 ### Aliases
 
 See .bashrc
+
+### SSH passwordless
+
