@@ -84,3 +84,7 @@ This comes automatically with Terminal.app
 ```
 Alt-left
 ```
+
+### Aliases
+
+See .bashrc
