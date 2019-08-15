@@ -23,7 +23,7 @@ Terminal.app:
 For changing directory more quickly
 
 ```
-cd w<tab>/sr<tab>/jasp<tab>
+cd wo<tab>/sr<tab>/
 ```
 
 ### Open folder
