@@ -6,9 +6,15 @@ Command line tips and tricks for beginners
 * create a `~/.bashrc` file 
 * copy the contents of https://raw.githubusercontent.com/sarnobat/unix/master/.bashrc
 
+
 ### Key bindings
 
 For quickly executing repetitive commands
+
+Terminal.app:
+* `Preferences`
+* `Profiles`
+* `Use Option as Meta Key`
 
 * see .bashrc
 
@@ -16,20 +22,65 @@ For quickly executing repetitive commands
 
 For changing directory more quickly
 
+```
+cd w<tab>/sr<tab>/jasp<tab>
+```
+
 ### Open folder
 
 ```
 open .
 ```
 
-### find
-
-#### xargs
-
-### Regular expressions
 
 ### Symbolic links
 
 ```
 ln -s ~/work/src/jasper_dev
+```
+
+### Working directory
+
+```
+pwd
+```
+
+### Prompt
+
+To get more idea where you are
+* host
+* working directory
+* user
+
+See .bashrc
+
+### find
+
+```
+find | grep Test.java
+```
+
+#### xargs
+
+```
+find | grep Test.java | xargs grep --color SpringJUnit4ClassRunner
+```
+### Regular expressions
+
+```
+find -iname "*.java" | sed -e 's/.*src.\(.*\).java/\1/' | sed -e 's/\//./g'
+```
+
+### Redirect output
+
+```
+find -iname "*.java" | sed -e 's/.*src.\(.*\).java/\1/' | sed -e 's/\//./g' > out.txt
+```
+
+### Move cursor backwards and forwards
+
+This comes automatically with Terminal.app
+
+```
+Alt-left
 ```
