@@ -143,3 +143,9 @@ ls ~/non-existed-file && echo "file exists" || echo "file does not exist"
 ```
 osascript -e 'display dialog "Built"'
 ```
+
+### machine info
+
+```
+uname -a
+```
