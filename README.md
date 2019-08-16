@@ -90,10 +90,24 @@ Alt-left
 
 See .bashrc
 
-### Scripting
-
 ### Netcat
+
+## Others
 
 ### SSH passwordless
 
 ### HTTP file server
+
+### Scripting
+
+### Vim
+
+Syntax highlighting
+
+### Cron
+
+### Processes
+
+```
+ps aux
+```
