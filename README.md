@@ -129,7 +129,7 @@ ps aux
 &&
 ```
 ```
-ls ~/non-existed-file && echo "file exists" && echo "file does not exist"
+ls ~/non-existed-file && echo "file exists" || echo "file does not exist"
 ```
 
 ### Disk space
