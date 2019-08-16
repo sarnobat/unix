@@ -29,24 +29,25 @@ For changing directory more quickly
 cd wo<tab>/sr<tab>/
 ```
 
-### Open folder
-
-```
-open .
-```
-
-
-### Symbolic links
-
-```
-ln -s ~/work/src/jasper_dev
-```
 
 ### Working directory
 
 ```
 pwd
 ```
+
+### Open folder
+
+```
+open .
+```
+
+### Symbolic links
+
+```
+ln -s ~/trash/Audio/Rock
+```
+
 
 ### Prompt
 
@@ -55,7 +56,9 @@ To get more idea where you are
 * working directory
 * user
 
-See .bashrc
+```
+PS1=`EXT_COLOR 128`'\w > \[\033[0m\]\[\e]2;\h\a'
+```
 
 ### find
 
