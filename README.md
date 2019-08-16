@@ -137,3 +137,9 @@ ls ~/non-existed-file && echo "file exists" && echo "file does not exist"
 ### History
 
 ### Jar file inspection
+
+### Popup box
+
+```
+osascript -e 'display dialog "Built"'
+```
