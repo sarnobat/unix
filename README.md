@@ -134,6 +134,8 @@ ls ~/non-existed-file && echo "file exists" || echo "file does not exist"
 
 ### Disk space
 
+### Disk space consumption
+
 ### History
 
 ### Jar file inspection
