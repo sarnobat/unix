@@ -58,13 +58,13 @@ See .bashrc
 
 # Pipes
 ```
-find | grep Test.java
+find | grep Cache
 ```
 
 #### xargs
 
 ```
-find | grep Test.java | xargs grep --color SpringJUnit4ClassRunner
+find | grep Cache | xargs grep --color powermock
 ```
 ### Regular expressions
 
