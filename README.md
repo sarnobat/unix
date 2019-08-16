@@ -111,3 +111,7 @@ Syntax highlighting
 ```
 ps aux
 ```
+
+### Install new software
+
+* https://brew.sh/
