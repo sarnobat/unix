@@ -14,9 +14,12 @@ For quickly executing repetitive commands
 Terminal.app:
 * `Preferences`
 * `Profiles`
+* `Keyboard`
 * `Use Option as Meta Key`
 
-* see .bashrc
+```
+bind ' "\el":"                "'
+```
 
 ### Tab completion
 
