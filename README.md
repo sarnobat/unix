@@ -90,9 +90,9 @@ Alt-left
 
 See .bashrc
 
-### Netcat
-
 ## Others
+
+### Netcat
 
 ### SSH passwordless
 
