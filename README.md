@@ -115,3 +115,7 @@ ps aux
 ### Install new software
 
 * https://brew.sh/
+
+### Kill a process
+
+### Tail a log file
