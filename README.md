@@ -57,7 +57,7 @@ To get more idea where you are
 * user
 
 ```
-PS1=`EXT_COLOR 128`'\w > \[\033[0m\]\[\e]2;\h\a'
+PS1=`EXT_COLOR 128`'\w > '$END
 ```
 
 ### find
