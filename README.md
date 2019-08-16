@@ -119,3 +119,15 @@ ps aux
 ### Kill a process
 
 ### Tail a log file
+
+### Run multiple commands
+
+```
+;
+```
+```
+&&
+```
+```
+ls ~/non-existed-file && echo "file exists" && echo "file does not exist"
+```
