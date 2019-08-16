@@ -56,6 +56,7 @@ See .bashrc
 
 ### find
 
+# Pipes
 ```
 find | grep Test.java
 ```
@@ -88,6 +89,8 @@ Alt-left
 ### Aliases
 
 See .bashrc
+
+### Scripting
 
 ### Netcat
 
