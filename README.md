@@ -7,6 +7,12 @@ Command line tips and tricks for beginners
 * copy the contents of https://raw.githubusercontent.com/sarnobat/unix/master/.bashrc
 
 
+### Aliases
+
+```
+alias l="ls -lrt"
+```
+
 ### Key bindings
 
 For quickly executing repetitive commands
@@ -92,9 +98,6 @@ This comes automatically with Terminal.app
 Alt-left
 ```
 
-### Aliases
-
-See .bashrc
 
 ## Others
 
