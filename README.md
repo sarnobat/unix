@@ -6,6 +6,31 @@ Command line tips and tricks for beginners
 * create a `~/.bashrc` file 
 * copy the contents of https://raw.githubusercontent.com/sarnobat/unix/master/.bashrc
 
+### Working directory
+
+```
+pwd
+```
+
+### Open folder
+
+```
+open .
+```
+
+### Tab completion
+
+For changing directory more quickly
+
+```
+cd wo<tab>/sr<tab>/
+```
+
+### Symbolic links
+
+```
+ln -s ~/trash/Audio/Rock
+```
 
 ### Aliases
 
@@ -27,32 +52,7 @@ Terminal.app:
 bind ' "\el":"                "'
 ```
 
-### Tab completion
 
-For changing directory more quickly
-
-```
-cd wo<tab>/sr<tab>/
-```
-
-
-### Working directory
-
-```
-pwd
-```
-
-### Open folder
-
-```
-open .
-```
-
-### Symbolic links
-
-```
-ln -s ~/trash/Audio/Rock
-```
 
 
 ### Prompt
