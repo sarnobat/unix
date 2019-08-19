@@ -26,6 +26,12 @@ For changing directory more quickly
 cd wo<tab>/sr<tab>/
 ```
 
+### Go back to previous folder
+
+```
+cd -
+```
+
 ### Symbolic links
 
 ```
@@ -115,18 +121,23 @@ Syntax highlighting
 
 ### Cron
 
+### Check what process is listening on a port
+
+```
+sudo lsof -i:80
+```
+
 ### Processes
 
 ```
 ps aux
 ```
 
+### Kill a process
+
 ### Install new software
 
 * https://brew.sh/
-
-### Kill a process
-
 ### Tail a log file
 
 ### Run multiple commands
