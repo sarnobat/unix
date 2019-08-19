@@ -74,7 +74,7 @@ PS1=`EXT_COLOR 128`'\w > '$END
 
 ### find
 
-# Pipes
+#### Pipes
 ```
 find | grep Cache
 ```
