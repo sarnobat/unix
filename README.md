@@ -104,22 +104,10 @@ This comes automatically with Terminal.app
 Alt-left
 ```
 
-
 ## Others
 
-### Netcat
-
-### SSH passwordless
 
 ### HTTP file server
-
-### Scripting
-
-### Vim
-
-Syntax highlighting
-
-### Cron
 
 ### Check what process is listening on a port
 
@@ -134,6 +122,21 @@ ps aux
 ```
 
 ### Kill a process
+
+
+### Netcat
+
+### SSH passwordless
+
+### rsync
+
+### Scripting
+
+### Vim
+
+Syntax highlighting
+
+### Cron
 
 ### Install new software
 
