@@ -1,6 +1,6 @@
 ### Goals
 
-To educate and encourage rookie command line users (mostly on Mac) to the range of things the command line can do, without intimidation.
+To educate and encourage rookie command line users (mostly on Mac) to the range of things the command line can do, without intimidation. No need to memorize these commands.
 
 The emphasis is more on breadth of features rather than depth.
 
