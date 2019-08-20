@@ -90,12 +90,6 @@ find | grep Cache | xargs grep --color powermock
 find -iname "*.java" | sed -e 's/.*src.\(.*\).java/\1/' | sed -e 's/\//./g'
 ```
 
-### Redirect output
-
-```
-find -iname "*.java" | sed -e 's/.*src.\(.*\).java/\1/' | sed -e 's/\//./g' > out.txt
-```
-
 ### Move cursor backwards and forwards
 
 This comes automatically with Terminal.app
@@ -103,6 +97,13 @@ This comes automatically with Terminal.app
 ```
 Alt-left
 ```
+
+### Redirect output
+
+```
+find -iname "*.java" | sed -e 's/.*src.\(.*\).java/\1/' | sed -e 's/\//./g' > out.txt
+```
+
 
 ## Others
 
