@@ -124,26 +124,14 @@ ps aux
 
 ### Kill a process
 
-
 ### Netcat
 
-### SSH passwordless
 
-### rsync
+### Popup box
 
-### Scripting
-
-### Vim
-
-Syntax highlighting
-
-### Cron
-
-### Install new software
-
-* https://brew.sh/
-### Tail a log file
-
+```
+osascript -e 'display dialog "Built"'
+```
 ### Run multiple commands
 
 ```
@@ -162,15 +150,31 @@ ls ~/non-existed-file && echo "file exists" || echo "file does not exist"
 
 ### History
 
+### machine info
+
+### SSH passwordless
+
+### rsync
+
+Copy large files with progress indication, across a network, and preserve original timestamps.
+
+### Scripting
+
+### Vim
+
+Syntax highlighting
+
+### Cron
+
+### Install new software
+
+* https://brew.sh/
+### Tail a log file
+
+
 ### Jar file inspection
 
-### Popup box
 
-```
-osascript -e 'display dialog "Built"'
-```
-
-### machine info
 
 ```
 uname -a
