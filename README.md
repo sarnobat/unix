@@ -98,11 +98,8 @@ Terminal.app:
 * `Use Option as Meta Key`
 
 ```
-bind ' "\el":"                "'
+bind ' "\el":"ls -lrt\n"'
 ```
-
-
-
 
 ### Prompt
 
