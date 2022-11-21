@@ -3,6 +3,47 @@
 # unix
 Command line tips and tricks for beginners
 
+-   [Quick start](#quick-start)
+-   [Working directory](#working-directory)
+-   [Open folder](#open-folder)
+-   [Tab completion](#tab-completion)
+-   [Go back to previous
+    folder](#go-back-to-previous-folder)
+-   [Symbolic links](#symbolic-links)
+-   [Aliases](#aliases)
+-   [Key bindings](#key-bindings)
+-   [Prompt](#prompt)
+-   [find](#find)
+-   [Regular
+    expressions](#regular-expressions)
+-   [Move cursor backwards and
+    forwards](#move-cursor-backwards-and-forwards)
+-   [Redirect output](#redirect-output)
+-   [Others](#others)
+    -   [HTTP file server](#http-file-server)
+    -   [Check what process is listening on a
+        port](#check-what-process-is-listening-on-a-port)
+    -   [Processes](#processes)
+    -   [Kill a process](#kill-a-process)
+    -   [Netcat](#netcat)
+    -   [Popup box](#popup-box)
+    -   [Run multiple
+        commands](#run-multiple-commands)
+    -   [Disk space](#disk-space)
+    -   [Disk space
+        consumption](#disk-space-consumption)
+    -   [History](#history)
+    -   [machine info](#machine-info)
+    -   [SSH passwordless](#ssh-passwordless)
+    -   [rsync](#rsync)
+    -   [Scripting](#scripting)
+    -   [Vim](#vim)
+    -   [Cron](#cron)
+    -   [Install new
+        software](#install-new-software)
+    -   [Jar file
+        inspection](#jar-file-inspection)
+
 ### Quick start
 
 * create a `~/.bashrc` file 
