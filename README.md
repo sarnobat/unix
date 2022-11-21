@@ -109,7 +109,7 @@ To get more idea where you are
 * user
 
 ```
-PS1=`EXT_COLOR 128`'\w > '$END
+PS1='\w > 
 ```
 
 ### find
