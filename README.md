@@ -49,6 +49,9 @@ Command line tips and tricks for beginners
 * create a `~/.bashrc` file 
 * copy the contents of https://raw.githubusercontent.com/sarnobat/unix/master/.bashrc
 
+### Video
+* https://www.youtube.com/watch?v=DBPTyJcH04U&ab_channel=sarnobat2000
+
 ### Working directory
 
 ```
