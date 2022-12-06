@@ -64,12 +64,11 @@ pwd
 open .
 ```
 
-### Tab completion
-
-For changing directory more quickly
+### Create folder
 
 ```
-cd wo<tab>/sr<tab>/
+mkdir test
+mkdir mydir/subdir
 ```
 
 ### Go back to previous folder
@@ -78,10 +77,18 @@ cd wo<tab>/sr<tab>/
 cd -
 ```
 
+### Tab completion
+
+For changing directory more quickly
+
+```
+cd my<tab>/su<tab>/
+```
+
 ### Symbolic links
 
 ```
-ln -s ~/trash/Audio/Rock
+ln -s ~/mydir/subdir
 ```
 
 ### Aliases
