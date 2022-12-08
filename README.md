@@ -91,6 +91,18 @@ cd my<tab>/su<tab>/
 ln -s ~/mydir/subdir
 ```
 
+
+### Prompt
+
+To get more idea where you are
+* host
+* working directory
+* user
+
+```
+PS1='\w > 
+```
+
 ### Aliases
 
 ```
@@ -109,17 +121,6 @@ Terminal.app:
 
 ```
 bind ' "\el":"ls -lrt\n"'
-```
-
-### Prompt
-
-To get more idea where you are
-* host
-* working directory
-* user
-
-```
-PS1='\w > 
 ```
 
 ### find
