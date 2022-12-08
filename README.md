@@ -208,24 +208,51 @@ ls ~/non-existed-file && echo "file exists" || echo "file does not exist"
 
 Copy large files with progress indication, across a network, and preserve original timestamps.
 
+```
+rsync 
+```
+
 ### Scripting
 
-### Vim
+```
+~/bin/
+```
 
-Syntax highlighting
+### Vim
+```
+vim
+```
+* Syntax highlighting
 
 ### Cron
-
+```
+crontab -e
+```
 ### Install new software
 
 * https://brew.sh/
-### Tail a log file
 
+### Tail a log file
+```
+tail
+```
 
 ### Jar file inspection
+```
+unzip
+```
 
-
+### expect
+```
+expect
+```
+### awk
+```
+awk
+```
 
 ```
 uname -a
 ```
+
+
